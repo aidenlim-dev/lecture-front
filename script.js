@@ -1,4 +1,5 @@
-const API_BASE_URL = 'http://localhost:8000/api'
+const API_BASE_URL =
+  'http://ec2-3-37-128-206.ap-northeast-2.compute.amazonaws.com/api'
 let currentUser = null
 let authToken = null
 
